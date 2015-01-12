@@ -10,6 +10,6 @@ I have made a conscious effort to hyperlink to every external or public resource
 
 The primary goal was to provide a structured walkthrough of these materials. Most of my original content is in the *Notes* section of each chapter, reflecting insights or issues that I wanted to highlight in context.
 
-**This book is not meant for sale, only as a convenience for meetup members.**De
+**This book is not meant for sale, only as a convenience for meetup members.**
 
 *If any content here is not correctly attributed, or if you are the original author of attributed content and wish to have it modified or removed, please post an Issue on the GitHub site for this book and I will be happy to work with you to make the right corrections.*
